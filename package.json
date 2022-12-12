@@ -9,7 +9,7 @@
   "author": "Bruno Orosco",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mosca": "^2.8.3",
     "mqtt": "^3.0.0"
   }
